@@ -11,6 +11,7 @@ Follow the course [here] (https://www.udacity.com/course/ud248)
 I use GitHub, because it's free.
 
 Donations:
+
 BTC: 'TBA'
 
 LTC: 'TBA'
